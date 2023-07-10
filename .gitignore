@@ -1,0 +1,17 @@
+node_modules
+yarn.lock
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+.solhint.json
+.solhintignore
+
+tester.js
+
+# Hardhat files
+cache
+artifacts
+
